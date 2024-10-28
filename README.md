@@ -11,7 +11,7 @@ Bu projede int, double, string, char gibi farklı veri türlerinde değişkenler
 Bu projede, diziler ile çalışmayı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi keşfettim. Diziler ile verilerin daha kolay yöneltilebildiğini ve gruplandırmalar yapılabildiğini öğrendim. 
 
 📍Proje 4: Karar Yapıları (If-Else)
-Bu proje ile if, else if ve else yapıları kullanarak karar mekanizmalarını oluşturdum. Programın farklı koşullara göre nasıl davrandığını test ettim. 
+Bu proje ile if, else if ve else yapıları kullanarak karar mekanizmalarını oluşturdum. Programın farklı koşullara göre nasıl davrandığını test ettim. En son olarak, switch-case karar yapısını da basit bir hesap makinesi oluşturarak mekanizmayı kavradım.
 
 📍Proje 5: Döngüler (Loops)
 Bu projede for, while ve foreach döngüleri ile nasıl işlemler yapabileceğimi kavradım. Döngülerle tekrarlayan işlemleri otomatikleştirme ve büyük veri gruplarını işleme becerisi kazandım. 
