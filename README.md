@@ -5,7 +5,7 @@ Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kamp
 Bu projede, konsol ekranına yazı yazdırmayı öğrendim. Console.WriteLine() veya Console.Write() gibi komutlar ile temel yazdırma işlemlerini ve arasındaki farkı kavradım. 
 
 📍Proje 2: Değişkenler
-Bu projede int, string, double gibi farklı veri türlerinde değişkenler tanımlamayı ve kullanmayı öğrendim. Veri tipleri ve değişkenler üzerinde işlemler yapmayı denedim. 
+Bu projede int, double, string, char gibi farklı veri türlerinde değişkenler tanımlamayı ve kullanmayı öğrendim. Veri tipleri ve değişkenler üzerinde işlemler yapmayı denedim. 
 
 📍Proje 3: Diziler (Arrays)
 Bu projede, diziler ile çalışmayı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi keşfettim. Diziler ile verilerin daha kolay yöneltilebildiğini ve gruplandırmalar yapılabildiğini öğrendim. 
